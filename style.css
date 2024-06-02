@@ -1,0 +1,9 @@
+body {
+    background-image: url("background.jpg");
+    background-position: center;
+    background-size: auto auto;
+    background-attachment: fixed;
+}
+div {
+    color:cyan
+}
